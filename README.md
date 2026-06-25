@@ -172,3 +172,9 @@ This project was originally developed as a college mini-project by a team. This 
 ## 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## 👨‍💻 Author
+
+**Sanskar Agrawal**
+
+GitHub: https://github.com/sanskarmangla005
