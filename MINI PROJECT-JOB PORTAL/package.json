@@ -1,0 +1,10 @@
+{
+  "name": "job-portal-root",
+  "version": "1.0.0",
+  "description": "Root package for Job Portal MERN App",
+  "scripts": {
+    "install-all": "npm install --include=dev --prefix backend && npm install --include=dev --prefix frontend",
+    "build": "npm run install-all && npm run build --prefix frontend",
+    "start": "npm start --prefix backend"
+  }
+}
